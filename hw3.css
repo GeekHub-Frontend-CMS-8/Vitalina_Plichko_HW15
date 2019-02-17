@@ -1,0 +1,17 @@
+html{
+	padding: 10px 50px 30px;
+	font-size:20px;
+}
+
+ul,li{
+	list-style-type:none;
+	padding: 0;
+}
+
+.line_height{
+	line-height:2;
+}
+
+fieldset{
+	margin-bottom:20px;
+}
